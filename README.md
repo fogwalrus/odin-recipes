@@ -1,0 +1,1 @@
+This project is for the Oding Project, foundation modules. The objective of this project is to create a website with recipe information, using tools for general HTML formatting, Git commits, and overall foundational knowledge
